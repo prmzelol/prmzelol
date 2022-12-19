@@ -1,16 +1,15 @@
-### Hi there 👋
+```go
+package readme
 
-<!--
-**matt-h1s/matt-h1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+type User struct {
+    Username    string
+    Languages   []string
+    Contact     []string
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var Matt = User{
+    Username: "matt-h1s",
+    Languages: []string{"golang", "python"}
+    Contact: []string{"Matt1#8967"}
+}
+```
