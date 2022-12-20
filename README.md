@@ -4,12 +4,22 @@ package readme
 type User struct {
     Username    string
     Languages   []string
-    Contact     []string
+    Contacts    []string
 }
 
 var Matt = User{
     Username: "matt-h1s",
     Languages: []string{"golang", "python"}
-    Contact: []string{"Matt1#8967"}
+    Contacts: []string{"Matt1#8967"}
 }
+```
+
+```py
+# readme
+
+class ReadMe:
+    def __init__(self) -> None:
+        self.username = "matt-h1s"
+        self.languages = ["golang", "python"]
+        self.contacts = ["Matt1#8967"]
 ```
