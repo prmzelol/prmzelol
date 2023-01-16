@@ -1,3 +1,4 @@
+# ⚡️ Prmze
 - Love to help others.
 - Chill with everyone.
 - Always open to ideas and willing to learn.
