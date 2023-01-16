@@ -14,5 +14,7 @@
 - I am looking into learning JavaScript or Vlang.
 
 ---
-<p align="center" width="100%"><img alt="GIF" src="https://media.giphy.com/media/80Cdy9EteIuOc/giphy.gif"/></p>
+<p align="center" width="100%">
+  <img alt="GIF" src="https://media.giphy.com/media/80Cdy9EteIuOc/giphy.gif" />
+</p>
 ---
