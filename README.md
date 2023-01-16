@@ -1,4 +1,5 @@
 # ⚡️ Prmze
+## A bit about me;
 - Love to help others.
 - Chill with everyone.
 - Critisism is key to help me improve my skills and knowledge base.
