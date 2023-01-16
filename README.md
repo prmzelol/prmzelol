@@ -4,4 +4,4 @@
 - Critisism is key to help me improve my skills and knowledge base.
 - Obsessed with cars.
 - Discord: prmze#0797
-<img align="center" alt="GIF" src="https://media.giphy.com/gif/80Cdy9EteIuOc/giphy.gif" />
+[https://media.giphy.com/gif/80Cdy9EteIuOc/giphy.gif](https://media.giphy.com/media/80Cdy9EteIuOc/giphy.gif)
