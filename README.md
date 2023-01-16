@@ -7,7 +7,8 @@
 - Chill with everyone.
 - Critisism is key to help me improve my skills and knowledge base.
 - Obsessed with cars.
-- Allways learning and open to ideas!
+- Always learning and open to ideas!
+- My spelling is awful.
 
 ## What am I learning/What do I know?
 - I know and work mostly with Golang.
