@@ -8,7 +8,7 @@
 - Critisism is key to help me improve my skills and knowledge base.
 - Obsessed with cars.
 - Always learning and open to ideas!
-- My spelling is awful.
+- I enjoy: Bob Ross: The Joy Of Painting, Family Guy, Ali G, Modern Family, Friday Night Dinner, The Dictator, Some Ordinary Gamers.
 
 ## What am I learning/What do I know?
 - I know and work mostly with Golang.
