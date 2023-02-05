@@ -17,8 +17,7 @@
 
 ## Where can you reach me?
 - Discord: prmze#0797
-- Instagram: @prmze
-- Challenge me at chess: https://chess.com/members/prmze
+- Instagram: @lolprmze
 
 ---
 <p align="center" width="100%">
